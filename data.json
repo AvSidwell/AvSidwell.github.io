@@ -1,0 +1,49 @@
+{
+  "myProjects": [
+    {
+      "id": 1,
+      "image": "",
+      "desc": "One of my first projects using a framework (Bootstrap)",
+      "github": "https://github.com/AvSidwell/my-profile",
+      "netlify": "https://gorgeous-squirrel-76d645.netlify.app"
+    },
+    {
+      "id": 2,
+      "image": "",
+      "desc": "Group task where I mainly focused on the About page",
+      "github": "https://github.com/gxotiweokuhle/groupwork",
+      "netlify": "https://iconnect-for-us.netlify.app/"
+    },
+    {
+      "id": 3,
+      "image": "",
+      "desc": "Group exercise in which I led",
+      "github": "https://github.com/AvSidwell/Streaming-webpage",
+      "netlify": "https://jolly-semifreddo-0b84d1.netlify.app"
+    },
+    {
+      "id": 4,
+      "image": "",
+      "desc": "Group exercise in which I led",
+      "github": "https://github.com/AvSidwell/Streaming-webpage",
+      "netlify": "https://jolly-semifreddo-0b84d1.netlify.app"
+    },
+    {
+      "id": 5,
+      "image": "",
+      "desc": "Group exercise in which I led",
+      "github": "https://github.com/AvSidwell/Streaming-webpage",
+      "netlify": "https://jolly-semifreddo-0b84d1.netlify.app"
+    }
+  ],
+  "Me": [
+    {
+      "id": 1,
+      "image": "https://i.postimg.cc/TwPRbC2x/c2.png",
+      "title": "Only you perfume",
+      "size": 105,
+      "price": 1500,
+      "quantity": 1
+    }
+  ]
+}
